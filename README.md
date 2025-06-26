@@ -13,6 +13,8 @@ We use the **HuffPost News Category Dataset** (`News_Category_Dataset_v3.json`),
 
 For this project, we sample **7,500** examples for training and validation.
 
+![Alt Text](images/dataset.png)
+
 ---
 
 ## 🧼 Data Cleaning & Preprocessing
@@ -69,7 +71,7 @@ The model learns these alignments using the **attention mechanism**.
   * `ModelCheckpoint` (to save the best model)
 
 ### 📉 Training Performance
-
+![Alt Text](images/Traning_result.png)
 
 ---
 

@@ -90,4 +90,5 @@ While the model works reasonably well, there’s room for improvement:
 ## 🧑‍💻 Author
 
 **Suhani Singh**
+
 Feel free to reach out or fork the project for your own experiments!!!

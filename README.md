@@ -71,7 +71,7 @@ The model learns these alignments using the **attention mechanism**.
   * `ModelCheckpoint` (to save the best model)
 
 ### 📉 Training Performance
-![Alt Text](images/Traning_result.png)
+![Alt Text](images/training_result.png)
 
 ---
 
